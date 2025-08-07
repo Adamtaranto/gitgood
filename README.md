@@ -12,3 +12,6 @@ A repository to learn how to use **Git**
 - git remote
 
 This change was made on github.
+
+This line was added locally.
+
